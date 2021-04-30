@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alirezakoo
+- 👋 Hi, I’m A.Bahrami
 - 👀 I’m interested in BI development
 - 🌱 I’m currently learning .net core and microsoft BI
 - 💞️ I’m looking to collaborate on .net core and BI Projects
