@@ -1,8 +1,4 @@
 - 👋 Hi, I’m A.Bahrami
-- 👀 I’m interested in BI development
-- 🌱 I’m currently learning .net core and microsoft BI
-- 💞️ I’m looking to collaborate on .net core and BI Projects
-- 📫 How to reach me alirezakoo@gmail.com
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
